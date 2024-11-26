@@ -7,7 +7,7 @@ export const robots = [
     username: "Siddhu",
     email: "muffin@gmail.com",
     avatar: "https://robohash.org/set_set3/bgset_bg1/1?size=200x200",
-    reserved: "false"
+    reserved: "false",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const robots = [
     username: "Vannu",
     email: "cupcake@gmail.com",
     avatar: "https://robohash.org/set_set3/bgset_bg1/2?size=200x200",
-    reserved: "true"
+    reserved: "true",
   },
   {
     id: 3,
@@ -23,7 +23,7 @@ export const robots = [
     username: "Siddharth",
     email: "ricky@gmail.com",
     avatar: "https://robohash.org/set_set3/bgset_bg1/3?size=200x200",
-    reserved: "false"
+    reserved: "false",
   },
   {
     id: 4,
@@ -31,7 +31,7 @@ export const robots = [
     username: "gugglu",
     email: "harshit@gmail.com",
     avatar: "https://robohash.org/set_set3/bgset_bg1/4?size=200x200",
-    reserved: "true"
+    reserved: "true",
   },
   {
     id: 5,
@@ -39,6 +39,6 @@ export const robots = [
     username: "Hitakshi",
     email: "hitakshi@gmail.com",
     avatar: "https://robohash.org/set_set3/bgset_bg1/5?size=200x200",
-    reserved: "false"
+    reserved: "false",
   },
 ];
